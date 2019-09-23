@@ -1,0 +1,220 @@
+body{
+	background-image: url("../files/img/fondo.jpg"); 	
+}
+
+.font{
+	font-size: 15px;
+}
+
+.div{
+	width: 60%; 
+	box-shadow: 3px 3px 12px #000000; 
+	margin-top: 5%;
+	border-radius: 15px;
+	padding-bottom: 2%;
+	background: #fff;
+}
+
+.color1{
+	background: rgba(247, 5, 1, 0.8);
+}
+
+.color2{
+	background: rgba(0, 0, 0, 0.1);
+}
+
+.color3{
+	background: rgba(0, 0, 0, 0.6);
+	border-bottom: 1px solid #000
+}
+
+.div2{
+	width: 98%; 
+	box-shadow: 3px 3px 12px #000000; 
+	margin-top: 1%;
+}
+
+.b_bottom{
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.centro{
+	justify-content: center;
+}
+
+.t_centro{
+	text-align: center;
+}
+
+.titulos{
+	color: #fff; 
+	padding: 18px 15px; 
+	text-align: center; 
+	font-size: 22px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+}
+
+.logo{
+	width: 100%;
+	height: 100%;
+}
+
+.logo2{
+	width: 60%;
+	padding-top: 25px;
+}
+
+.cabeza{
+	color:#fff;
+	font-size: 22px;
+	text-shadow: 2px 2px 3px #000;
+}
+
+.cabeza:hover{
+	text-decoration: none;
+	transition: 0.5s;
+	color:#fff;
+}
+
+.labels{
+	margin-left: 20%;
+}
+
+.icono{
+	color: rgba(26, 210, 44, 0.5);
+}
+
+.icono:hover{
+	color: rgba(26, 210, 44, 1);
+	transition: 0.7s;
+}
+
+.espacio{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.inputs{
+	border: none;
+	border-bottom: 1px solid #888888;
+}
+
+.espacio2{
+	margin-top: 10px;
+}
+
+.redes{
+	color: #C4C4C4;
+	margin-left:21px;
+	margin-bottom: 20px;
+}
+
+.redes:hover{
+	color: #727272;
+	transition: 0.7s;
+}
+
+.boton{
+	background: #fff;
+	border: 1px solid #000; 
+	color: #000;
+}
+
+.boton:hover{
+	background: #000 !important;
+	transition: 0.5s;
+	color: #fff;
+}
+
+.boton_menu{
+	background: #fff;
+	color:#000;
+	font-size: 21px;
+}
+
+.boton_menu:hover{
+	transition: 0.5s;
+	color:#FFF;
+	border: 1px solid #fff; 
+	background:#EE332C;
+}
+
+.perfil{
+	color:#000;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 0.5px 0.5px 0.5px #fff;
+}
+
+.boton_perfil{
+	color:#fff !important;
+	margin-right: 150px;
+}
+
+.desplegable:hover{
+	background: #EEEEEE;
+}
+
+.enlaces{
+	background: #f2f2f2;
+	height: 55px;
+	font-size: 18px;
+	padding-top: 5%;
+}
+
+.enlaces:hover{
+	background: #DCDCDC;
+	border-right: 1px solid #818181;
+	transition: 0.6s
+}
+
+.enlaces2{
+	background: #f2f2f2;
+	height: 55px;
+	font-size: 18px;
+	padding-top: 5%;
+}
+
+.links{
+	color: rgba(0, 0, 0, 0.6);
+}
+
+.links:hover{
+	color: rgba(0, 0, 0, 0.8);
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.tabla{
+	margin-top: 5%;
+	box-shadow: 3px 3px 12px #000000; 	
+}
+
+.negrilla{
+	font-weight: bold;
+}
+
+.ths{
+	color: #000;
+	text-align: center;
+	background: #f2f2f2;
+	font-weight: bold;
+}
+
+.historia{
+	margin-top: 5%;
+	box-shadow: 1px 1px 10px #000;
+}
+
+.th{
+	color:#fff;
+	text-align: center;
+	font-size: 15px;
+}
+
+.td{
+	background: #fff;
+	text-align: center;
+	font-size: 14.5px;
+}
